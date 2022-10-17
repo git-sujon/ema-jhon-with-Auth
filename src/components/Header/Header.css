@@ -21,3 +21,17 @@
 .user-info{
     color: white;
 }
+
+.sign-out {
+    margin-left:20px;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: rgb(255, 235, 197);
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.sign-out:hover {
+    background-color: orange;
+    color: white;
+}
