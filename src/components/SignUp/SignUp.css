@@ -1,0 +1,7 @@
+.signup-container {
+    height: 700px;
+}
+.text-error {
+    color: rgb(228, 53, 53);
+    text-align: center;
+}
